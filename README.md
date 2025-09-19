@@ -385,7 +385,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Getting Help
 - **Issues**: [GitHub Issues](https://github.com/yourusername/real-fake-classifier/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/real-fake-classifier/discussions)
-- **Email**: your.email@example.com
+- **Email**: amresh.kumar90150@gmail.com
 
 ### FAQ
 
@@ -413,5 +413,6 @@ A: Extend the preprocessing pipeline to handle categorical encoding.
 ---
 
 **Happy Classifying! 🎯**
+
 
 For questions, suggestions, or contributions, please don't hesitate to reach out!
